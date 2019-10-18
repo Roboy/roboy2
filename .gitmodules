@@ -1,0 +1,21 @@
+[submodule "src/common_utilities"]
+	path = src/common_utilities
+	url = https://github.com/Roboy/common_utilities
+[submodule "src/roboy_communication"]
+	path = src/roboy_communication
+	url = https://github.com/Roboy/roboy_communication
+[submodule "src/kindyn"]
+	path = src/kindyn
+	url = https://github.com/CARDSflow/kindyn
+[submodule "src/cardsflow_rviz"]
+	path = src/cardsflow_rviz
+	url = https://github.com/CARDSflow/cardsflow_rviz
+[submodule "src/cardsflow_rqt"]
+	path = src/cardsflow_rqt
+	url = https://github.com/CARDSflow/cardsflow_rqt
+[submodule "src/robots"]
+	path = src/robots
+	url = https://github.com/Roboy/robots
+[submodule "src/pysdf"]
+	path = src/pysdf
+	url = https://github.com/Roboy/pysdf
